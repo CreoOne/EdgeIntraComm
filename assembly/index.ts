@@ -1,4 +1,5 @@
+import { Console } from "as-wasi/assembly"
 
 export function _start(): void {
-  // logic goes here
+  Console.log("Hello");
 }
