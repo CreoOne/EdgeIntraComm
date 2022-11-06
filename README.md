@@ -20,4 +20,5 @@ This is [AssemblyScript](https://github.com/AssemblyScript/assemblyscript) boile
 
 ## What next?
 
-I'd like to introduce HTTP server inside, so that this boilerplate is a microservice ready to be filled with domain logic, but there are [some issues](https://github.com/AssemblyScript/wasi-shim#considerations) with [WASI](https://wasi.dev/) direction in AS. Whatever i support any side of the conflict, doesn't matter, in the current state of the WASI in AS it's too much hustle to implement HTTP server so i'm waiting until situation is resolved or alternatives are implemented.
+1. I'd like to introduce HTTP server inside, so that this boilerplate is a microservice ready to be filled with domain logic, but there are [some issues](https://github.com/AssemblyScript/wasi-shim#considerations) with [WASI](https://wasi.dev/) direction in AS. Whatever i support any side of the conflict, doesn't matter, in the current state of the WASI in AS it's too much hustle to implement HTTP server so i'm waiting until situation is resolved or alternatives are implemented.
+2. Some kind of tests boilerplate can be added. You are welcome to do so.
