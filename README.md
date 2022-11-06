@@ -5,8 +5,8 @@ This is [AssemblyScript](https://github.com/AssemblyScript/assemblyscript) boile
 ## Advantages
 
 1. Compiles straight into wasm.
-2. Doesn't require any runtime inside docker.
-3. Generated docker image weights 3.33kB.
+2. **Doesn't require any runtime** inside docker.
+3. Generated docker image weights **3.33kB**.
 
 ## Running
 
